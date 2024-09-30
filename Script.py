@@ -178,11 +178,11 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_shortner ez4short.com 837b7a64653d1b435f5e20a237840f1251d0c1ce</code>
+<code>/set_shortner instantearn.in d4c19ee7986c819ede4cdd24553910494d62c8b1</code>
 
-<code>/set_shortner_2 omnifly.in.net f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
+<code>/set_shortner_2 inshorturl.com 794bdb65da350dfefc8e852eb90ed43ce5605d67</code>
 
-<code>/set_shortner_3 shortslink.in 06b24eb6bbb025713cd522fb3f696b6d5de11354</code>
+<code>/set_shortner_3 vnshortener.com 7286704e3b823d903e91e88a3f6e1b5f7232629a</code>
 
 <code>/set_tutorial https://t.me/bisal_files</code>
 
